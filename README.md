@@ -66,7 +66,7 @@ https://drive.google.com/drive/folders/1e5N4NKkre6l7OH-Pyxl_cUFrf_aHUeoq?usp=dri
 To explore any of these projects, simply navigate to the respective directory in this repository.
 
 ## Contact
-[Email](kevinwc888@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-chang-7375912a1/).
+Email: kevinwc888@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-chang-7375912a1/).
 
 ---
 
