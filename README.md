@@ -42,6 +42,25 @@ Welcome to my portfolio repository! This collection showcases a variety of proje
      - Vulnerability identification and classification
      - Detailed report 
 
+### 5. **Self Rendition of Watermelon Game - Game Development**
+   - **Description**: Created all the mechanics, scenes, assets, sprites and functions of the“Watermelon Game” from scratch. Implemented the functions of the fruitscombining, the container for the game and different validations for losing andrestarting. Created a self rendition of the game.
+   - **Technologies**: , C#, Unity, LibreSprite
+   - **Features**:
+     - Playable game
+     - Self made assets
+     - Game logic development
+
+### 5. **Game demo for a RPG styel 2D game - Game Development**
+   - **Description**: Made a prototype for a 2D game in Unity. Implemented movement, animationand both borrowed and created the assets used in the game. In addition variousfunctions like inventory, different test sceneries and dialogue were implemented
+   - **Technologies**: , C#, Unity, LibreSprite
+   - **Features**:
+     - Playable game
+     - Self made assets
+     - Game logic development
+
+## Links to Unity Projects
+https://drive.google.com/drive/folders/1e5N4NKkre6l7OH-Pyxl_cUFrf_aHUeoq?usp=drive_link
+
 ## Getting Started
 
 To explore any of these projects, simply navigate to the respective directory in this repository.
