@@ -1,4 +1,4 @@
-# Portfolio Repository
+# Portfolio Repository - Kevin Chang
 
 Welcome to my portfolio repository! This collection showcases a variety of projects I've developed, ranging from co-creating web applications built with PHP and Node.js to cybersecurity challenges and vulnerability analysis. Below is a brief overview of each project:
 
@@ -50,7 +50,7 @@ Welcome to my portfolio repository! This collection showcases a variety of proje
      - Self made assets
      - Game logic development
 
-### 5. **Game demo for a RPG styel 2D game - Game Development**
+### 6. **Game demo for a RPG styel 2D game - Game Development**
    - **Description**: Made a prototype for a 2D game in Unity. Implemented movement, animationand both borrowed and created the assets used in the game. In addition variousfunctions like inventory, different test sceneries and dialogue were implemented
    - **Technologies**: , C#, Unity, LibreSprite
    - **Features**:
