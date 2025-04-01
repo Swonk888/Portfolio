@@ -58,7 +58,7 @@ Welcome to my portfolio repository! This collection showcases a variety of proje
      - Self made assets
      - Game logic development
 
-  ### 8. **Game demo for a RPG styel 2D game - Game Development**
+  ### 8. **Astar and MinMax algorithm Implementation**
   - **Description**: Implemented MinMax algorithm to play line and boxes and A* algorithm to solve peg solitaire using Python and Numpy. Any starting state (input) can be given and the program will try and solve it and find the most optimal way to play.
   - **Technologies**: Jupyter Notebook, Python, Numpy, Matplotlib
   - **Features**:
