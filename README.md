@@ -65,6 +65,14 @@ Welcome to my portfolio repository! This collection showcases a variety of proje
     - Presents the steps taken to achieve the solution
     - Starting position can be Given 
 
+  ### 9. **Genetic Algorithm algorithm Implementation**
+  - **Description**: Implemented a Genetic algorithm to play the classic "Snake" game. Implemented the individual's chromosome characteristics, fitness criteria, the crossover method and the mutuation rate and method. The basic logic of the algorithm came down to representing each individual in a population as a table that stores newly discovered game states when playing the game. The agent stores every new state and asigns a move to take in that given state. The idea its to form an individual with all posible states with the best possible move for that given state.
+  - **Technologies**: Jupyter Notebook, Python, Numpy, Matplotlib, pyGame
+  - **Features**:
+    - Can change parameters like mutuation rate, population size and generation number.
+    - Learns using evolution
+    - Added documentation and result analysis
+
 ## Links to Unity Projects
 https://drive.google.com/drive/folders/1e5N4NKkre6l7OH-Pyxl_cUFrf_aHUeoq?usp=drive_link
 
